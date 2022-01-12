@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @seanpkelly
+- 👀 I’m interested in making cities a more equitable place for all through code, and trying to create positive change any way I can
+- 🌱 I’m currently learning frontend frameworks to further bolster my toolbelt
+- 💞️ I’m looking to collaborate on fun projects that will help me grow as a developer
+- 📫 How to reach me: sean.pa.kelly@gmail.com
